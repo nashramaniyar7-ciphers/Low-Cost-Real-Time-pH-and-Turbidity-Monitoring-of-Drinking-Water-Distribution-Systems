@@ -1,0 +1,6 @@
+{
+  "name": "AquaGuard AI",
+  "description": "Low-cost real-time pH, turbidity, and hydraulic monitoring platform for drinking-water distribution pipelines with BIS IS 10500 threshold analysis and early-warning anomaly detection.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
